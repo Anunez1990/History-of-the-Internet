@@ -2,5 +2,5 @@
 Project #1 IS-117
 
 Created by:
-Alex V. Nunez
-Aayush
+*Alex V. Nunez
+*Aayush
