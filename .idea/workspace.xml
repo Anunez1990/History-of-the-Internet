@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5aad8f06-5353-4859-82f4-e5c2ca72f340" name="Default Changelist" comment="Task: Setting up main structure of the project">
+    <list default="true" id="5aad8f06-5353-4859-82f4-e5c2ca72f340" name="Default Changelist" comment="Feature: Creating the branches for the pages">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project_pages/browser_wars.html" beforeDir="false" afterPath="$PROJECT_DIR$/project_pages/browser_wars.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project_pages/doc_com.html" beforeDir="false" afterPath="$PROJECT_DIR$/project_pages/doc_com.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project_pages/internet_search.html" beforeDir="false" afterPath="$PROJECT_DIR$/project_pages/internet_search.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project_pages/invention.html" beforeDir="false" afterPath="$PROJECT_DIR$/project_pages/invention.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project_pages/people.html" beforeDir="false" afterPath="$PROJECT_DIR$/project_pages/people.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/team.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitignore" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,14 +98,18 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="443" y="164" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1600717023459" />
-    <state x="463" y="117" key="FileChooserDialogImpl" timestamp="1600787381898">
+    <state x="463" y="117" key="FileChooserDialogImpl" timestamp="1600799173875">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="117" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1600787381898" />
+    <state x="463" y="117" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1600799173875" />
     <state x="129" y="53" key="MergeDialog" timestamp="1600737859455">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="129" y="53" key="MergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1600737859455" />
+    <state x="275" y="95" key="Vcs.Push.Dialog.v2" timestamp="1600799128245">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="95" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1600799128245" />
     <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1600786897699">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
