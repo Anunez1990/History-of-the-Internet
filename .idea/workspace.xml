@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5aad8f06-5353-4859-82f4-e5c2ca72f340" name="Default Changelist" comment="Task: Finishing the main structure of the web page">
-      <change afterPath="$PROJECT_DIR$/invention.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/team.html" afterDir="false" />
+    <list default="true" id="5aad8f06-5353-4859-82f4-e5c2ca72f340" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,38 +48,15 @@
       <workItem from="1600705315915" duration="6278000" />
       <workItem from="1600716945886" duration="92000" />
     </task>
-    <task id="LOCAL-00001" summary="Task: Finishing the main structure of the web page">
-      <created>1600733950399</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1600733950399</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Task: Finishing the main structure of the web page">
-      <created>1600734162972</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1600734162972</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Task: Finishing the main structure of the web page" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task: Finishing the main structure of the web page" />
   </component>
   <component name="WindowStateProjectService">
     <state x="443" y="164" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600717023459">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="443" y="164" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1600717023459" />
-    <state x="92" y="92" width="1182" height="544" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1600734421688">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="92" y="92" width="1182" height="544" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1600734421688" />
   </component>
 </project>
