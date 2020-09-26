@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5aad8f06-5353-4859-82f4-e5c2ca72f340" name="Default Changelist" comment="Feature: Fixing gitignore and readme.md">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +78,7 @@
       <workItem from="1600705315915" duration="6278000" />
       <workItem from="1600716945886" duration="92000" />
       <workItem from="1600869206890" duration="21000" />
-      <workItem from="1601135798540" duration="394000" />
+      <workItem from="1601135798540" duration="552000" />
     </task>
     <task id="LOCAL-00001" summary="Task: Finishing the main structure of the web page">
       <created>1600733950399</created>
@@ -122,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601135992807</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Feature: Fixing gitignore and readme.md">
+      <created>1601136203392</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1601136203392</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,10 +174,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1601135945251" />
-    <state x="275" y="95" key="Vcs.Push.Dialog.v2" timestamp="1600799432655">
+    <state x="275" y="95" key="Vcs.Push.Dialog.v2" timestamp="1601136228623">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="95" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1600799432655" />
+    <state x="275" y="95" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601136228623" />
     <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1600786897699">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
