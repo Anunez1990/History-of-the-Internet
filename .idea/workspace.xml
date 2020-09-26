@@ -1,9 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5aad8f06-5353-4859-82f4-e5c2ca72f340" name="Default Changelist" comment="Bug: fixing gitignore file">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="5aad8f06-5353-4859-82f4-e5c2ca72f340" name="Default Changelist" comment="Feature: Fixing gitignore and readme.md">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +78,7 @@
       <workItem from="1600705315915" duration="6278000" />
       <workItem from="1600716945886" duration="92000" />
       <workItem from="1600869206890" duration="21000" />
-      <workItem from="1601135798540" duration="147000" />
+      <workItem from="1601135798540" duration="394000" />
     </task>
     <task id="LOCAL-00001" summary="Task: Finishing the main structure of the web page">
       <created>1600733950399</created>
@@ -98,17 +115,36 @@
       <option name="project" value="LOCAL" />
       <updated>1600799409855</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Feature: Fixing gitignore and readme.md">
+      <created>1601135992807</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1601135992807</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Task: Finishing the main structure of the web page" />
     <MESSAGE value="Task: Setting up main structure of the project" />
     <MESSAGE value="Bug: fixing gitignore file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Bug: fixing gitignore file" />
+    <MESSAGE value="Feature: Fixing gitignore and readme.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature: Fixing gitignore and readme.md" />
   </component>
   <component name="WindowStateProjectService">
     <state x="443" y="164" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600717023459">
@@ -119,10 +155,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="117" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1600869224249" />
-    <state x="129" y="53" key="MergeDialog" timestamp="1600737859455">
+    <state x="129" y="53" key="MergeDialog" timestamp="1601136056124">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="129" y="53" key="MergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1600737859455" />
+    <state x="129" y="53" key="MergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1601136056124" />
+    <state x="321" y="124" key="MultipleFileMergeDialog" timestamp="1601136056139">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="321" y="124" key="MultipleFileMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1601136056139" />
     <state x="184" y="0" key="SettingsEditor" timestamp="1601135945251">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
