@@ -1,6 +1,6 @@
-# History of the Internet
+#History of the Internet
 Project #1 IS-117
 
 Created by:
-*Alex V. Nunez
-*Aayush
+* Alex V. Nunez
+* Aayush Kumar
