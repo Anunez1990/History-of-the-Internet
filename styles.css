@@ -122,5 +122,14 @@ h1, h2, h3, h4, h5, h6 {
     height: 250px;
     border: 3px solid #5b5b5b;
 }
+.page_picture{
+    width: 35%;
+    float: right;
+    display: inline;
+    padding:1% 2%  ;
+}
 
+.page-content{
+    display: inline;
+}
 
