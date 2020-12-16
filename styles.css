@@ -32,6 +32,15 @@ p{
     }
 }
 
+@media (max-width: 900px) {
+    .navbar-nav{
+        background-color: black;
+    }
+    .blog-main{
+        padding-top: 20%;
+    }
+}
+
 /*NAVIGATION BAR*/
 .navbar{
     margin-top: 2rem;
@@ -154,6 +163,7 @@ p{
     margin-top: 2rem;
     margin-bottom: 2rem;
     width: 80%;
+    margin-left: 3rem;
 }
 
 .page-content{
