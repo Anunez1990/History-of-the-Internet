@@ -97,6 +97,7 @@ p{
  * Blog posts
  */
 .blog-post {
+    padding-top: 2rem;
     margin-bottom: 4rem;
 }
 .blog-post-title {
