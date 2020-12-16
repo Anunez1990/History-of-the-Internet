@@ -27,6 +27,13 @@ h1, h2, h3, h4, h5, h6 {
     }
 }
 
+/*NAVIGATION BAR*/
+.navbar{
+    margin-top: 2rem;
+    border-radius: 0px;
+    background-color: #CA3A3A;
+}
+
 .nav-scroller {
     position: relative;
     z-index: 2;
@@ -51,6 +58,19 @@ h1, h2, h3, h4, h5, h6 {
     padding-top: .75rem;
     padding-bottom: .75rem;
     font-size: .875rem;
+}
+
+/*BLOG SLIDE-BAR*/
+
+.blog-sidebar{
+    background-color: #FF9F9F;
+}
+
+
+/*JUMBOTRON*/
+.jumbotron{
+    border-radius: 0px;
+    margin-bottom: 0px;
 }
 
 .card-img-right {
@@ -90,13 +110,12 @@ h1, h2, h3, h4, h5, h6 {
     padding: 2.5rem 0;
     color: #999;
     text-align: center;
-    background-color: #f9f9f9;
+    background-color: #2F2F2F;
     border-top: .05rem solid #e5e5e5;
 }
 .blog-footer p:last-child {
     margin-bottom: 0;
 }
-
 
 /*
  * Left Card
@@ -108,7 +127,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .left-container{
-    margin-left: 1.5rem;
+    margin-top: 1.5rem;
+    margin-left: 2rem;
+    width: 75%;
 }
 
 .author{
