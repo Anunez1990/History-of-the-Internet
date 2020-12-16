@@ -1,0 +1,76 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"5aad8f06-5353-4859-82f4-e5c2ca72f340\" name=\"Default Changelist\" comment=\"Task: Setting up main structure of the project\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/project_pages/browser_wars.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/project_pages/browser_wars.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/project_pages/doc_com.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/project_pages/doc_com.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/project_pages/internet_search.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/project_pages/internet_search.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/project_pages/invention.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/project_pages/invention.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/project_pages/people.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/project_pages/people.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/team.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/team.html\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"CSS File\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"teamPage\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"1hpPyL83jvaBKP7xsO0EbRWT98n\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\r\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$/../Homework2\" />\r\n    <property name=\"list.type.of.created.stylesheet\" value=\"CSS\" />\r\n    <property name=\"node.js.detected.package.eslint\" value=\"true\" />\r\n    <property name=\"node.js.detected.package.tslint\" value=\"true\" />\r\n    <property name=\"node.js.path.for.package.eslint\" value=\"project\" />\r\n    <property name=\"node.js.path.for.package.tslint\" value=\"project\" />\r\n    <property name=\"node.js.selected.package.eslint\" value=\"(autodetect)\" />\r\n    <property name=\"node.js.selected.package.tslint\" value=\"(autodetect)\" />\r\n    <property name=\"vue.rearranger.settings.migration\" value=\"true\" />\r\n  </component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\alex.cat\\WebstormProjects\\Project1\\project_pages\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"5aad8f06-5353-4859-82f4-e5c2ca72f340\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1600705314287</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1600705314287</updated>\r\n      <workItem from=\"1600705315915\" duration=\"6278000\" />\r\n      <workItem from=\"1600716945886\" duration=\"92000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Task: Finishing the main structure of the web page\">\r\n      <created>1600733950399</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1600733950399</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Task: Finishing the main structure of the web page\">\r\n      <created>1600734162972</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1600734162972</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Task: Setting up main structure of the project\">\r\n      <created>1600786669233</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1600786669233</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"4\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Task: Finishing the main structure of the web page\" />\r\n    <MESSAGE value=\"Task: Setting up main structure of the project\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Task: Setting up main structure of the project\" />\r\n  </component>\r\n  <component name=\"WindowStateProjectService\">\r\n    <state x=\"443\" y=\"164\" key=\"#com.intellij.fileTypes.FileTypeChooser\" timestamp=\"1600717023459\">\r\n      <screen x=\"0\" y=\"0\" width=\"1366\" height=\"728\" />\r\n    </state>\r\n    <state x=\"443\" y=\"164\" key=\"#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728\" timestamp=\"1600717023459\" />\r\n    <state x=\"463\" y=\"117\" key=\"FileChooserDialogImpl\" timestamp=\"1600787381898\">\r\n      <screen x=\"0\" y=\"0\" width=\"1366\" height=\"728\" />\r\n    </state>\r\n    <state x=\"463\" y=\"117\" key=\"FileChooserDialogImpl/0.0.1366.728@0.0.1366.728\" timestamp=\"1600787381898\" />\r\n    <state x=\"129\" y=\"53\" key=\"MergeDialog\" timestamp=\"1600737859455\">\r\n      <screen x=\"0\" y=\"0\" width=\"1366\" height=\"728\" />\r\n    </state>\r\n    <state x=\"129\" y=\"53\" key=\"MergeDialog/0.0.1366.728@0.0.1366.728\" timestamp=\"1600737859455\" />\r\n    <state x=\"92\" y=\"92\" width=\"1182\" height=\"544\" key=\"com.intellij.history.integration.ui.views.DirectoryHistoryDialog\" timestamp=\"1600786897699\">\r\n      <screen x=\"0\" y=\"0\" width=\"1366\" height=\"728\" />\r\n    </state>\r\n    <state x=\"92\" y=\"92\" width=\"1182\" height=\"544\" key=\"com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1366.728@0.0.1366.728\" timestamp=\"1600786897699\" />\r\n    <state x=\"92\" y=\"92\" width=\"1182\" height=\"544\" maximized=\"true\" key=\"com.intellij.history.integration.ui.views.FileHistoryDialog\" timestamp=\"1600734421688\">\r\n      <screen x=\"0\" y=\"0\" width=\"1366\" height=\"728\" />\r\n    </state>\r\n    <state x=\"92\" y=\"92\" width=\"1182\" height=\"544\" maximized=\"true\" key=\"com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728@0.0.1366.728\" timestamp=\"1600734421688\" />\r\n    <state x=\"463\" y=\"75\" key=\"git4idea.branch.GitSmartOperationDialog\" timestamp=\"1600737815901\">\r\n      <screen x=\"0\" y=\"0\" width=\"1366\" height=\"728\" />\r\n    </state>\r\n    <state x=\"463\" y=\"75\" key=\"git4idea.branch.GitSmartOperationDialog/0.0.1366.728@0.0.1366.728\" timestamp=\"1600737815901\" />\r\n    <state x=\"346\" y=\"49\" width=\"672\" height=\"678\" key=\"search.everywhere.popup\" timestamp=\"1600792163318\">\r\n      <screen x=\"0\" y=\"0\" width=\"1366\" height=\"728\" />\r\n    </state>\r\n    <state x=\"346\" y=\"49\" width=\"672\" height=\"678\" key=\"search.everywhere.popup/0.0.1366.728@0.0.1366.728\" timestamp=\"1600792163318\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision 368e436a5a8bd21bc2e973ebfc0ebdc0e43bb5fc)
++++ .idea/workspace.xml	(date 1600797108875)
+@@ -1,15 +1,7 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="5aad8f06-5353-4859-82f4-e5c2ca72f340" name="Default Changelist" comment="Task: Setting up main structure of the project">
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/project_pages/browser_wars.html" beforeDir="false" afterPath="$PROJECT_DIR$/project_pages/browser_wars.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/project_pages/doc_com.html" beforeDir="false" afterPath="$PROJECT_DIR$/project_pages/doc_com.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/project_pages/internet_search.html" beforeDir="false" afterPath="$PROJECT_DIR$/project_pages/internet_search.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/project_pages/invention.html" beforeDir="false" afterPath="$PROJECT_DIR$/project_pages/invention.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/project_pages/people.html" beforeDir="false" afterPath="$PROJECT_DIR$/project_pages/people.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/team.html" afterDir="false" />
+-    </list>
++    <list default="true" id="5aad8f06-5353-4859-82f4-e5c2ca72f340" name="Default Changelist" comment="Feature: Creating the branches for the pages" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -86,7 +78,14 @@
+       <option name="project" value="LOCAL" />
+       <updated>1600786669233</updated>
+     </task>
+-    <option name="localTasksCounter" value="4" />
++    <task id="LOCAL-00004" summary="Feature: Creating the branches for the pages">
++      <created>1600797062397</created>
++      <option name="number" value="00004" />
++      <option name="presentableId" value="LOCAL-00004" />
++      <option name="project" value="LOCAL" />
++      <updated>1600797062397</updated>
++    </task>
++    <option name="localTasksCounter" value="5" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -95,7 +94,8 @@
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="Task: Finishing the main structure of the web page" />
+     <MESSAGE value="Task: Setting up main structure of the project" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Task: Setting up main structure of the project" />
++    <MESSAGE value="Feature: Creating the branches for the pages" />
++    <option name="LAST_COMMIT_MESSAGE" value="Feature: Creating the branches for the pages" />
+   </component>
+   <component name="WindowStateProjectService">
+     <state x="443" y="164" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600717023459">
+@@ -106,6 +106,10 @@
+       <screen x="0" y="0" width="1366" height="728" />
+     </state>
+     <state x="463" y="117" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1600787381898" />
++    <state x="561" y="259" key="Github.ShareDialog" timestamp="1600796252983">
++      <screen x="0" y="0" width="1366" height="728" />
++    </state>
++    <state x="561" y="259" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1600796252983" />
+     <state x="129" y="53" key="MergeDialog" timestamp="1600737859455">
+       <screen x="0" y="0" width="1366" height="728" />
+     </state>
+@@ -114,10 +118,10 @@
+       <screen x="0" y="0" width="1366" height="728" />
+     </state>
+     <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1600786897699" />
+-    <state x="92" y="92" width="1182" height="544" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1600734421688">
++    <state x="92" y="92" width="1182" height="544" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1600797108820">
+       <screen x="0" y="0" width="1366" height="728" />
+     </state>
+-    <state x="92" y="92" width="1182" height="544" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1600734421688" />
++    <state x="92" y="92" width="1182" height="544" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1600797108820" />
+     <state x="463" y="75" key="git4idea.branch.GitSmartOperationDialog" timestamp="1600737815901">
+       <screen x="0" y="0" width="1366" height="728" />
+     </state>

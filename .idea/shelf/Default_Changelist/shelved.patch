@@ -1,0 +1,101 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"BranchesTreeState\">\r\n    <expand>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"LOCAL_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"GROUP_NODE:origin\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n    </expand>\r\n    <select />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"5aad8f06-5353-4859-82f4-e5c2ca72f340\" name=\"Default Changelist\" comment=\"Feature: Fixing gitignore and readme.md\">\r\n      <change beforePath=\"$PROJECT_DIR$/.gitignore\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.gitignore\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"CSS File\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"teamPage\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"1hpPyL83jvaBKP7xsO0EbRWT98n\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\r\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$\" />\r\n    <property name=\"list.type.of.created.stylesheet\" value=\"CSS\" />\r\n    <property name=\"node.js.detected.package.eslint\" value=\"true\" />\r\n    <property name=\"node.js.detected.package.tslint\" value=\"true\" />\r\n    <property name=\"node.js.path.for.package.eslint\" value=\"project\" />\r\n    <property name=\"node.js.path.for.package.tslint\" value=\"project\" />\r\n    <property name=\"node.js.selected.package.eslint\" value=\"(autodetect)\" />\r\n    <property name=\"node.js.selected.package.tslint\" value=\"(autodetect)\" />\r\n    <property name=\"settings.editor.selected.configurable\" value=\"org.jetbrains.plugins.github.ui.GithubSettingsConfigurable\" />\r\n    <property name=\"vue.rearranger.settings.migration\" value=\"true\" />\r\n  </component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\alex.cat\\WebstormProjects\\Project1\\project_pages\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"5aad8f06-5353-4859-82f4-e5c2ca72f340\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1600705314287</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1600705314287</updated>\r\n      <workItem from=\"1600705315915\" duration=\"6278000\" />\r\n      <workItem from=\"1600716945886\" duration=\"92000\" />\r\n      <workItem from=\"1600869206890\" duration=\"21000\" />\r\n      <workItem from=\"1601135798540\" duration=\"552000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Task: Finishing the main structure of the web page\">\r\n      <created>1600733950399</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1600733950399</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Task: Finishing the main structure of the web page\">\r\n      <created>1600734162972</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1600734162972</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Task: Setting up main structure of the project\">\r\n      <created>1600786669233</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1600786669233</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"Bug: fixing gitignore file\">\r\n      <created>1600799307172</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1600799307172</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"Bug: fixing gitignore file\">\r\n      <created>1600799409855</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1600799409855</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"Feature: Fixing gitignore and readme.md\">\r\n      <created>1601135992807</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1601135992807</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00007\" summary=\"Feature: Fixing gitignore and readme.md\">\r\n      <created>1601136203392</created>\r\n      <option name=\"number\" value=\"00007\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1601136203392</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"8\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Task: Finishing the main structure of the web page\" />\r\n    <MESSAGE value=\"Task: Setting up main structure of the project\" />\r\n    <MESSAGE value=\"Bug: fixing gitignore file\" />\r\n    <MESSAGE value=\"Feature: Fixing gitignore and readme.md\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Feature: Fixing gitignore and readme.md\" />\r\n  </component>\r\n  <component name=\"WindowStateProjectService\">\r\n    <state x=\"443\" y=\"164\" key=\"#com.intellij.fileTypes.FileTypeChooser\" timestamp=\"1600717023459\">\r\n      <screen x=\"0\" y=\"0\" width=\"1366\" height=\"728\" />\r\n    </state>\r\n    <state x=\"443\" y=\"164\" key=\"#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728\" timestamp=\"1600717023459\" />\r\n    <state x=\"463\" y=\"117\" key=\"FileChooserDialogImpl\" timestamp=\"1600869224249\">\r\n      <screen x=\"0\" y=\"0\" width=\"1366\" height=\"728\" />\r\n    </state>\r\n    <state x=\"463\" y=\"117\" key=\"FileChooserDialogImpl/0.0.1366.728@0.0.1366.728\" timestamp=\"1600869224249\" />\r\n    <state x=\"129\" y=\"53\" key=\"MergeDialog\" timestamp=\"1601136056124\">\r\n      <screen x=\"0\" y=\"0\" width=\"1366\" height=\"728\" />\r\n    </state>\r\n    <state x=\"129\" y=\"53\" key=\"MergeDialog/0.0.1366.728@0.0.1366.728\" timestamp=\"1601136056124\" />\r\n    <state x=\"321\" y=\"124\" key=\"MultipleFileMergeDialog\" timestamp=\"1601136056139\">\r\n      <screen x=\"0\" y=\"0\" width=\"1366\" height=\"728\" />\r\n    </state>\r\n    <state x=\"321\" y=\"124\" key=\"MultipleFileMergeDialog/0.0.1366.728@0.0.1366.728\" timestamp=\"1601136056139\" />\r\n    <state x=\"184\" y=\"0\" key=\"SettingsEditor\" timestamp=\"1601135945251\">\r\n      <screen x=\"0\" y=\"0\" width=\"1366\" height=\"728\" />\r\n    </state>\r\n    <state x=\"184\" y=\"0\" key=\"SettingsEditor/0.0.1366.728@0.0.1366.728\" timestamp=\"1601135945251\" />\r\n    <state x=\"275\" y=\"95\" key=\"Vcs.Push.Dialog.v2\" timestamp=\"1601136228623\">\r\n      <screen x=\"0\" y=\"0\" width=\"1366\" height=\"728\" />\r\n    </state>\r\n    <state x=\"275\" y=\"95\" key=\"Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728\" timestamp=\"1601136228623\" />\r\n    <state x=\"92\" y=\"92\" width=\"1182\" height=\"544\" key=\"com.intellij.history.integration.ui.views.DirectoryHistoryDialog\" timestamp=\"1600786897699\">\r\n      <screen x=\"0\" y=\"0\" width=\"1366\" height=\"728\" />\r\n    </state>\r\n    <state x=\"92\" y=\"92\" width=\"1182\" height=\"544\" key=\"com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1366.728@0.0.1366.728\" timestamp=\"1600786897699\" />\r\n    <state x=\"92\" y=\"92\" width=\"1182\" height=\"544\" maximized=\"true\" key=\"com.intellij.history.integration.ui.views.FileHistoryDialog\" timestamp=\"1600734421688\">\r\n      <screen x=\"0\" y=\"0\" width=\"1366\" height=\"728\" />\r\n    </state>\r\n    <state x=\"92\" y=\"92\" width=\"1182\" height=\"544\" maximized=\"true\" key=\"com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728@0.0.1366.728\" timestamp=\"1600734421688\" />\r\n    <state x=\"463\" y=\"75\" key=\"git4idea.branch.GitSmartOperationDialog\" timestamp=\"1600737815901\">\r\n      <screen x=\"0\" y=\"0\" width=\"1366\" height=\"728\" />\r\n    </state>\r\n    <state x=\"463\" y=\"75\" key=\"git4idea.branch.GitSmartOperationDialog/0.0.1366.728@0.0.1366.728\" timestamp=\"1600737815901\" />\r\n    <state x=\"346\" y=\"49\" width=\"672\" height=\"678\" key=\"search.everywhere.popup\" timestamp=\"1600792163318\">\r\n      <screen x=\"0\" y=\"0\" width=\"1366\" height=\"728\" />\r\n    </state>\r\n    <state x=\"346\" y=\"49\" width=\"672\" height=\"678\" key=\"search.everywhere.popup/0.0.1366.728@0.0.1366.728\" timestamp=\"1600792163318\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision f8b28804488b8f2c7ac5615ac5441f826be694ea)
++++ .idea/workspace.xml	(date 1601137424518)
+@@ -19,8 +19,9 @@
+     <select />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="5aad8f06-5353-4859-82f4-e5c2ca72f340" name="Default Changelist" comment="Feature: Fixing gitignore and readme.md">
++    <list default="true" id="5aad8f06-5353-4859-82f4-e5c2ca72f340" name="Default Changelist" comment="Feature: Fixing gitignore">
+       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -59,6 +60,7 @@
+     <property name="node.js.path.for.package.tslint" value="project" />
+     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+     <property name="node.js.selected.package.tslint" value="(autodetect)" />
++    <property name="nodejs_package_manager_path" value="npm" />
+     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+     <property name="vue.rearranger.settings.migration" value="true" />
+   </component>
+@@ -78,7 +80,7 @@
+       <workItem from="1600705315915" duration="6278000" />
+       <workItem from="1600716945886" duration="92000" />
+       <workItem from="1600869206890" duration="21000" />
+-      <workItem from="1601135798540" duration="552000" />
++      <workItem from="1601135798540" duration="1625000" />
+     </task>
+     <task id="LOCAL-00001" summary="Task: Finishing the main structure of the web page">
+       <created>1600733950399</created>
+@@ -129,7 +131,14 @@
+       <option name="project" value="LOCAL" />
+       <updated>1601136203392</updated>
+     </task>
+-    <option name="localTasksCounter" value="8" />
++    <task id="LOCAL-00008" summary="Feature: Fixing gitignore">
++      <created>1601136426019</created>
++      <option name="number" value="00008" />
++      <option name="presentableId" value="LOCAL-00008" />
++      <option name="project" value="LOCAL" />
++      <updated>1601136426019</updated>
++    </task>
++    <option name="localTasksCounter" value="9" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -151,7 +160,8 @@
+     <MESSAGE value="Task: Setting up main structure of the project" />
+     <MESSAGE value="Bug: fixing gitignore file" />
+     <MESSAGE value="Feature: Fixing gitignore and readme.md" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Feature: Fixing gitignore and readme.md" />
++    <MESSAGE value="Feature: Fixing gitignore" />
++    <option name="LAST_COMMIT_MESSAGE" value="Feature: Fixing gitignore" />
+   </component>
+   <component name="WindowStateProjectService">
+     <state x="443" y="164" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600717023459">
+@@ -162,6 +172,10 @@
+       <screen x="0" y="0" width="1366" height="728" />
+     </state>
+     <state x="463" y="117" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1600869224249" />
++    <state x="522" y="241" key="Github.ShareDialog" timestamp="1601136800916">
++      <screen x="0" y="0" width="1366" height="728" />
++    </state>
++    <state x="522" y="241" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1601136800916" />
+     <state x="129" y="53" key="MergeDialog" timestamp="1601136056124">
+       <screen x="0" y="0" width="1366" height="728" />
+     </state>
+@@ -174,10 +188,10 @@
+       <screen x="0" y="0" width="1366" height="728" />
+     </state>
+     <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1601135945251" />
+-    <state x="275" y="95" key="Vcs.Push.Dialog.v2" timestamp="1601136228623">
++    <state x="275" y="95" key="Vcs.Push.Dialog.v2" timestamp="1601136643511">
+       <screen x="0" y="0" width="1366" height="728" />
+     </state>
+-    <state x="275" y="95" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601136228623" />
++    <state x="275" y="95" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601136643511" />
+     <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1600786897699">
+       <screen x="0" y="0" width="1366" height="728" />
+     </state>
+Index: .gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>     .idea
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .gitignore	(revision f8b28804488b8f2c7ac5615ac5441f826be694ea)
++++ .gitignore	(date 1601136607909)
+@@ -1,1 +1,1 @@
+-     .idea
+\ No newline at end of file
++.idea
+\ No newline at end of file

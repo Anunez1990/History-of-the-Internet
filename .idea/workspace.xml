@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5aad8f06-5353-4859-82f4-e5c2ca72f340" name="Default Changelist" comment="Feature: Changing Website style">
+      <change afterPath="$PROJECT_DIR$/pictures/home_picture.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="Invention" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hpPyL83jvaBKP7xsO0EbRWT98n" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\alex.cat\WebstormProjects\Project1\pictures" />
+      <recent name="C:\Users\alex.cat\WebstormProjects\Project1\project_pages" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5aad8f06-5353-4859-82f4-e5c2ca72f340" name="Default Changelist" comment="" />
+      <created>1600705314287</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600705314287</updated>
+      <workItem from="1600705315915" duration="6278000" />
+      <workItem from="1600716945886" duration="92000" />
+      <workItem from="1600869206890" duration="21000" />
+      <workItem from="1601135798540" duration="552000" />
+      <workItem from="1601218702615" duration="4938000" />
+      <workItem from="1601253139619" duration="6113000" />
+      <workItem from="1601305088946" duration="6760000" />
+      <workItem from="1601396333131" duration="14744000" />
+      <workItem from="1602027293535" duration="560000" />
+      <workItem from="1602028975606" duration="1946000" />
+      <workItem from="1602095701404" duration="2636000" />
+      <workItem from="1602169627513" duration="12894000" />
+      <workItem from="1602601475647" duration="629000" />
+      <workItem from="1602611488249" duration="399000" />
+      <workItem from="1608040943995" duration="3055000" />
+      <workItem from="1608090230982" duration="1382000" />
+      <workItem from="1608121202427" duration="2890000" />
+    </task>
+    <task id="LOCAL-00001" summary="Task: Finishing the main structure of the web page">
+      <created>1600733950399</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600733950399</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Task: Finishing the main structure of the web page">
+      <created>1600734162972</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600734162972</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Task: Setting up main structure of the project">
+      <created>1600786669233</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600786669233</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Bug: fixing gitignore file">
+      <created>1600799307172</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1600799307172</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Bug: fixing gitignore file">
+      <created>1600799409855</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1600799409855</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Feature: Fixing gitignore and readme.md">
+      <created>1601135992807</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1601135992807</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Feature: Fixing gitignore and readme.md">
+      <created>1601136203392</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1601136203392</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Feature: Fixing gitignore">
+      <created>1601138632902</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1601138632902</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Feature: Adding the navigation links">
+      <created>1601145803132</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1601145803132</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Feature: Adding the navigation links">
+      <created>1601145910217</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1601145910217</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Task: Changing style sheet navigation links">
+      <created>1601166698845</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1601166698845</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Task: Adding navigation links to all the pages">
+      <created>1601167556880</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1601167556880</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Bugs: Fixing Navigation Links">
+      <created>1601168444030</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1601168444030</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Bugs: Fixing Navigation Links styles">
+      <created>1601170333506</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1601170333506</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Bugs: Changing navigation links for home and about page">
+      <created>1601171195198</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1601171195198</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Task: Finishing navigation bar">
+      <created>1601172819381</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1601172819381</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Feature: Setting up home page content.">
+      <created>1601175570256</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1601175570256</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Feature: Creating Team Page">
+      <created>1601223269524</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1601223269525</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Feature: Creating About Page">
+      <created>1601258913741</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1601258913741</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Bug: Fixing footer">
+      <created>1601305251305</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1601305251306</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Feature: Adding partner information">
+      <created>1601311882960</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1601311882960</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Task: Fixing structure">
+      <created>1601315438428</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1601315438428</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Task: Fixing structure">
+      <created>1601315772667</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1601315772667</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Task: Fixing structure">
+      <created>1601316065238</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1601316065238</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Task: Fixing structure">
+      <created>1601335462788</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1601335462788</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Task: Adding Home page content">
+      <created>1601409214010</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1601409214010</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Task: Adding Page topic">
+      <created>1601409426333</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1601409426333</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Feature: Adding pictures to the website">
+      <created>1601411413521</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1601411413521</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Task: fixing home page image">
+      <created>1601412118231</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1601412118231</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Task: Final Changes">
+      <created>1601432919066</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1601432919066</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Task: Fixing dates">
+      <created>1601433131865</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1601433131865</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Feature: Changing Website style">
+      <created>1608122281075</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1608122281075</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Task: Finishing the main structure of the web page" />
+    <MESSAGE value="Task: Setting up main structure of the project" />
+    <MESSAGE value="Bug: fixing gitignore file" />
+    <MESSAGE value="Feature: Fixing gitignore and readme.md" />
+    <MESSAGE value="Feature: Fixing gitignore" />
+    <MESSAGE value="Feature: Adding the navigation links" />
+    <MESSAGE value="Task: Changing style sheet navigation links" />
+    <MESSAGE value="Task: Adding navigation links to all the pages" />
+    <MESSAGE value="Bugs: Fixing Navigation Links" />
+    <MESSAGE value="Bugs: Fixing Navigation Links styles" />
+    <MESSAGE value="Bugs: Changing navigation links for home and about page" />
+    <MESSAGE value="Task: Finishing navigation bar" />
+    <MESSAGE value="Feature: Setting up home page content." />
+    <MESSAGE value="Feature: Creating Team Page" />
+    <MESSAGE value="Feature: Creating About Page" />
+    <MESSAGE value="Bug: Fixing footer" />
+    <MESSAGE value="Feature: Adding partner information" />
+    <MESSAGE value="Task: Fixing structure" />
+    <MESSAGE value="Task: Adding Home page content" />
+    <MESSAGE value="Task: Adding Page topic" />
+    <MESSAGE value="Feature: Adding pictures to the website" />
+    <MESSAGE value="Task: fixing home page image" />
+    <MESSAGE value="Task: Final Changes" />
+    <MESSAGE value="Task: Fixing dates" />
+    <MESSAGE value="Feature: Changing Website style" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature: Changing Website style" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="21" key="#Deployment" timestamp="1608041123396">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="21" key="#Deployment/0.0.1366.728@0.0.1366.728" timestamp="1608041123396" />
+    <state x="259" y="8" key="#SSH_Configurations" timestamp="1601434565583">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="259" y="8" key="#SSH_Configurations/0.0.1366.728@0.0.1366.728" timestamp="1601434565583" />
+    <state x="443" y="164" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600717023459">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="443" y="164" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1600717023459" />
+    <state x="463" y="117" key="FileChooserDialogImpl" timestamp="1602602405194">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="117" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1602602405194" />
+    <state x="864" y="241" key="Github.ShareDialog" timestamp="1601138339096">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="864" y="241" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1601138339096" />
+    <state x="124" y="53" width="1242" height="675" key="MergeDialog" timestamp="1601172155073">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="124" y="53" width="1242" height="675" key="MergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1601172155073" />
+    <state x="321" y="124" key="MultipleFileMergeDialog" timestamp="1601136056139">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="321" y="124" key="MultipleFileMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1601136056139" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1601138288322">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1601138288322" />
+    <state x="275" y="95" key="Vcs.Push.Dialog.v2" timestamp="1608123408490">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="95" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1608123408490" />
+    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1600786897699">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1600786897699" />
+    <state x="92" y="92" width="1182" height="544" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1600734421688">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1600734421688" />
+    <state x="500" y="276" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1608040961622">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="500" y="276" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1608040961622" />
+    <state x="463" y="75" key="git4idea.branch.GitSmartOperationDialog" timestamp="1601424179137">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="75" key="git4idea.branch.GitSmartOperationDialog/0.0.1366.728@0.0.1366.728" timestamp="1601424179137" />
+    <state x="339" y="157" key="run.anything.popup" timestamp="1602548768641">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="157" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1602548768641" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1601222696844">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1601222696844" />
+  </component>
+</project>
