@@ -14,6 +14,9 @@
     <!-- Font Awesome -->
     <script defer src="https://use.fontawesome.com/releases/v5.0.7/js/all.js"></script>
 
+
+
+
     <!-- Bootstrap core CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
     <style>
@@ -23,12 +26,7 @@
                 font-size: 3.5rem;
             }
         }
-        .navbar{
-            border-radius: 3px;
-        }
-        .subscription{
-            padding: 0;
-        }
+
 
     </style>
     <!-- Custom styles for this template -->
@@ -39,39 +37,27 @@
 <body>
 <div class="container">
     <!--    HEADER SECTION TITTLE OF THE WEBPAGE AND SUBSCRIPTION TAG-->
-    <header class="blog-header py-3">
-        <div class="row flex-nowrap justify-content-between align-items-center">
-
-            <div class="col-10 text-center">
-                <a class="blog-header-logo text-dark" href="#">History of the Internet</a>
-            </div>
-
-            <div class="col-2 text-center subscription">
-                <a class="text-muted" href="#">Subscribe</a>
-            </div>
-        </div>
-    </header>
-
     <!--    NAVIGATION BAR -->
-    <nav class="navbar navbar-expand-lg navbar navbar-dark bg-dark">
+    <nav class="navbar navbar-expand-lg navbar navbar-dark">
         <a class="navbar-brand" href="index.html">Internet History</a>
+
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
 
-        <div class="collapse navbar-collapse" id="navbarNav">
-            <ul class="navbar-nav">
+        <div class="collapse navbar-collapse " id="navbarNav">
+            <ul class="navbar-nav ml-auto">
                 <li class="nav-item active">
                     <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
                 </li>
-                <li class="nav-item">
+                <li class="nav-item active">
                     <a class="nav-link" href="team.html">Team</a>
                 </li>
-                <li class="nav-item">
+                <li class="nav-item active">
                     <a class="nav-link" href="about.html">About</a>
                 </li>
 
-                <li class="nav-item dropdown">
+                <li class="nav-item dropdown active">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         History of the Internet
                     </a>
@@ -85,15 +71,10 @@
                 </li>
             </ul>
         </div>
-
-        <form class="form-inline">
-            <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
-        </form>
     </nav>
 
     <!--    SUMMARY OF THE PAGE    -->
-    <div class="jumbotron p-4 p-md-5 text-white rounded bg-dark">
+    <div class="jumbotron p-4 p-md-5 text-white bg-dark">
         <div class="col-md-6 px-0">
             <h1 class="display-4 font-italic">History of the Internet</h1>
             <p class="lead my-3">
