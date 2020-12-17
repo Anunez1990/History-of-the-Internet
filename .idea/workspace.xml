@@ -19,23 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5aad8f06-5353-4859-82f4-e5c2ca72f340" name="Default Changelist" comment="Feature: Fixing team page style">
-      <change afterPath="$PROJECT_DIR$/pictures/Amazon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pictures/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pictures/google.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pictures/microsoftvsnestcape.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pictures/www.PNG" afterDir="false" />
+    <list default="true" id="5aad8f06-5353-4859-82f4-e5c2ca72f340" name="Default Changelist" comment="Feature: Fixing content pages">
+      <change afterPath="$PROJECT_DIR$/pictures/Before-After.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pictures/Internet_history.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pictures/ebay.png" beforeDir="false" afterPath="$PROJECT_DIR$/pictures/ebay.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pictures/napster.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pictures/napster.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project_pages/browser_wars.html" beforeDir="false" afterPath="$PROJECT_DIR$/project_pages/browser_wars.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project_pages/doc_com.html" beforeDir="false" afterPath="$PROJECT_DIR$/project_pages/doc_com.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project_pages/internet_search.html" beforeDir="false" afterPath="$PROJECT_DIR$/project_pages/internet_search.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project_pages/invention.html" beforeDir="false" afterPath="$PROJECT_DIR$/project_pages/invention.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project_pages/people.html" beforeDir="false" afterPath="$PROJECT_DIR$/project_pages/people.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/team.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -129,7 +117,7 @@
       <workItem from="1602611488249" duration="399000" />
       <workItem from="1608040943995" duration="3055000" />
       <workItem from="1608090230982" duration="1382000" />
-      <workItem from="1608121202427" duration="11074000" />
+      <workItem from="1608121202427" duration="13590000" />
     </task>
     <task id="LOCAL-00001" summary="Task: Finishing the main structure of the web page">
       <created>1600733950399</created>
@@ -390,7 +378,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608159272598</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Feature: Fixing content pages">
+      <created>1608162123258</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1608162123258</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -409,7 +404,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Feature: Fixing gitignore and readme.md" />
     <MESSAGE value="Feature: Fixing gitignore" />
     <MESSAGE value="Feature: Adding the navigation links" />
     <MESSAGE value="Task: Changing style sheet navigation links" />
@@ -434,7 +428,8 @@
     <MESSAGE value="Feature: Fixing home page" />
     <MESSAGE value="Feature: Fixing pages style" />
     <MESSAGE value="Feature: Fixing team page style" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feature: Fixing team page style" />
+    <MESSAGE value="Feature: Fixing content pages" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature: Fixing content pages" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="21" key="#Deployment" timestamp="1608041123396">
@@ -469,10 +464,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1601138288322" />
-    <state x="275" y="95" key="Vcs.Push.Dialog.v2" timestamp="1608159276625">
+    <state x="275" y="95" key="Vcs.Push.Dialog.v2" timestamp="1608162160030">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="95" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1608159276625" />
+    <state x="275" y="95" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1608162160030" />
     <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1600786897699">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
