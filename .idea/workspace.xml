@@ -22,16 +22,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5aad8f06-5353-4859-82f4-e5c2ca72f340" name="Default Changelist" comment="Feature: Fixing broken links">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+    <list default="true" id="5aad8f06-5353-4859-82f4-e5c2ca72f340" name="Default Changelist" comment="Feature: Modifying links">
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project_pages/browser_wars.html" beforeDir="false" afterPath="$PROJECT_DIR$/project_pages/browser_wars.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project_pages/internet_search.html" beforeDir="false" afterPath="$PROJECT_DIR$/project_pages/internet_search.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project_pages/invention.html" beforeDir="false" afterPath="$PROJECT_DIR$/project_pages/invention.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project_pages/people.html" beforeDir="false" afterPath="$PROJECT_DIR$/project_pages/people.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/team.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +121,7 @@
       <workItem from="1608316614038" duration="635000" />
       <workItem from="1611702277808" duration="1747000" />
       <workItem from="1611795517731" duration="162000" />
-      <workItem from="1613589100421" duration="2019000" />
+      <workItem from="1613589100421" duration="2288000" />
     </task>
     <task id="LOCAL-00001" summary="Task: Finishing the main structure of the web page">
       <created>1600733950399</created>
@@ -404,7 +396,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611702368969</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="Feature: Modifying links">
+      <created>1613593071647</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1613593071647</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -423,7 +422,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Feature: Adding the navigation links" />
     <MESSAGE value="Task: Changing style sheet navigation links" />
     <MESSAGE value="Task: Adding navigation links to all the pages" />
     <MESSAGE value="Bugs: Fixing Navigation Links" />
@@ -448,7 +446,8 @@
     <MESSAGE value="Feature: Fixing team page style" />
     <MESSAGE value="Feature: Fixing content pages" />
     <MESSAGE value="Feature: Fixing broken links" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feature: Fixing broken links" />
+    <MESSAGE value="Feature: Modifying links" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature: Modifying links" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="21" key="#Deployment" timestamp="1608041123396">
@@ -463,10 +462,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1611702652746" />
-    <state x="275" y="95" key="Vcs.Push.Dialog.v2" timestamp="1613589105800">
+    <state x="275" y="95" key="Vcs.Push.Dialog.v2" timestamp="1613593075768">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="95" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1613589105800" />
+    <state x="275" y="95" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1613593075768" />
     <state x="500" y="276" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1608159412453">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
