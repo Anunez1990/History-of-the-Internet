@@ -8,7 +8,7 @@ Created by:
 Links:
 
 * GITHUB:
-https://alexn2307.github.io/History-of-the-Internet/
+https://anunez1990.github.io/History-of-the-Internet/
 
 * PROJECT  DESIGN
 https://drive.google.com/file/d/1aQGMu4lBKoqUVO56ikLCojEPxMLFBOLw/view?usp=sharing
